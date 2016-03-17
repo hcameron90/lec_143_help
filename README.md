@@ -1,0 +1,2 @@
+# lec_143_help
+small problem Ok i copied and paste the bootstrap template in Dreamweaver,  typed the &lt;div class=".col-md-4 box"> content &lt;/div>  &lt;div class=".col-md-4 box"> content &lt;/div>  &lt;div class=".col-md-4 box"> content &lt;/div>  But when I go to view on the web. (though the columns stack on top of each other when I minimize the window) when i maximize the browser window they stay stacked but don't line up horizontal.
